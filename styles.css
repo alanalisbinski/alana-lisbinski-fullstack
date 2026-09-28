@@ -111,7 +111,7 @@ header {
     margin-top: 2.9rem;
     margin-left: 0.5rem;
     border-radius: 50%;
-    background-image: url('imagens/foto-perfil.jpeg');
+    background-image: url('imagens/foto-de-perfil.jpeg');
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
